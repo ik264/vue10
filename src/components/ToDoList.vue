@@ -102,6 +102,7 @@ export default {
   padding: 10px 18px;
   font-size: 18px;
   margin-bottom: 16px;
+  background-color: #ccc;
 }
 
 :focus {

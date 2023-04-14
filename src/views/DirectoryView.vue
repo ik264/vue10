@@ -1,10 +1,10 @@
 <template>
     <vueCountriesCities @country='selectedCountry = $event' @city='selectedCity = $event' />
     <button class="... ring-2 ring-pink-300 ring-inset px-20">
-        {{ selectedCountry }}
+        Country:{{ selectedCountry }}
     </button> |
     <button class="... ring-2 ring-pink-300 ring-inset px-20">
-        {{ selectedCity }}
+        City:{{ selectedCity }}
     </button>
 </template>
   
@@ -21,7 +21,7 @@ export default {
 }
 </script>
   
-<style>
+<style scoped>
 .directory {
     text-align: center;
     font-size: 40px;
