@@ -2,7 +2,7 @@
 
 ## About Project
 ```
-This is my beginner vuejs project
+This is my beginner vuejs project. You can click the button on navbar to different project.
 ```
 ## Project setup
 ```
