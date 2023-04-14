@@ -5,7 +5,9 @@
     <router-link to="/calculator">Calculator</router-link> |
     <router-link to="/todolist">ToDoList</router-link> |
     <router-link to="/weather">Weather</router-link> |
-    <router-link to="/news">News</router-link>
+    <router-link to="/news">News</router-link> |
+    <router-link to="/directory">Directory</router-link> |
+    <router-link to=""></router-link>
   </nav>
   <router-view/>
 </template>
