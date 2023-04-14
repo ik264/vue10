@@ -1,5 +1,9 @@
 # vue10
 
+## About Project
+```
+This is my beginner vuejs project
+```
 ## Project setup
 ```
 npm install
